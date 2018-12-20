@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1426983314 source:c:\users\timothy\documents\programming\sdl2 projects\dangerous games\main.cpp
+	<SDL.h>
+	<cstdio>
+	"GLOBALS.h"
+	"Helpers.h"
+	"Menus.h"
+	"Games.h"
+
+1426951730 source:c:\users\timothy\documents\programming\sdl2 projects\dangerous games\helpers.cpp
+	"GLOBALS.h"
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Helpers.h"
+	<cstdio>
+	<cmath>
+
+1426952760 c:\users\timothy\documents\programming\sdl2 projects\dangerous games\helpers.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<string>
+	"GLOBALS.h"
+
+1427991835 c:\users\timothy\documents\programming\sdl2 projects\dangerous games\globals.h
+	<string>
+	<cstdio>
+	"SDL.h"
+
+1425936139 source:c:\users\timothy\documents\programming\sdl2 projects\dangerous games\characters.cpp
+	<SDL.h>
+	"Characters.h"
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"GLOBALS.h"
+	"Helpers.h"
+	<stdio.h>
+	<iostream>
+
+1425936017 c:\users\timothy\documents\programming\sdl2 projects\dangerous games\characters.h
+	"GLOBALS.h"
+	"Helpers.h"
+
+1426981289 source:c:\users\timothy\documents\programming\sdl2 projects\dangerous games\menus.cpp
+	"GLOBALS.h"
+	"Menus.h"
+	<cstdio>
+
+1426955342 c:\users\timothy\documents\programming\sdl2 projects\dangerous games\menus.h
+	"Helpers.h"
+	"GLOBALS.h"
+	"Events.h"
+	<SDL_ttf.h>
+
+1413054072 source:c:\users\timothy\documents\programming\sdl2 projects\dangerous games\timer.cpp
+	<SDL.h>
+	"Timer.h"
+
+1426101830 c:\users\timothy\documents\programming\sdl2 projects\dangerous games\timer.h
+
+1427991716 source:c:\users\timothy\documents\programming\sdl2 projects\dangerous games\games.cpp
+	"Games.h"
+	"Events.h"
+	"NPC.h"
+	"GLOBALS.h"
+	"SDL_TTF.h"
+	<ctime>
+	<cmath>
+	<cstdio>
+
+1426881573 c:\users\timothy\documents\programming\sdl2 projects\dangerous games\games.h
+	"GLOBALS.h"
+	"Helpers.h"
+	"Timer.h"
+	"NPC.h"
+
+1427992337 source:c:\users\timothy\documents\programming\sdl2 projects\dangerous games\npc.cpp
+	<SDL.h>
+	"NPC.h"
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"GLOBALS.h"
+	"Helpers.h"
+	<stdio.h>
+	<iostream>
+
+1427991454 c:\users\timothy\documents\programming\sdl2 projects\dangerous games\npc.h
+	"GLOBALS.h"
+	"Helpers.h"
+	"Events.h"
+
+1426881717 c:\users\timothy\documents\programming\sdl2 projects\dangerous games\events.h
+	<SDL.h>
+	"Helpers.h"
+
+1426902079 source:c:\users\timothy\documents\programming\sdl2 projects\dangerous games\events.cpp
+	"Events.h"
+	"GLOBALS.h"
+
+1426982310 source:c:\users\timothy\documents\programming\sdl2 projects\dangerous games\globals.cpp
+	"GLOBALS.h"
+
+1426951530 c:\users\timothy\documents\programming\sdl2 projects\dangerous games\st+gfx.h
+
+1426951766 c:\users\timothy\documents\programming\sdl2 projects\dangerous games\changeable_globals.h
+

@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1411309695 source:c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	<cmath>
+	<sstream>
+	<ctime>
+	<cstdlib>
+	"Timer.h"
+	"Helpers.h"
+	"Characters.h"
+	"IC_GlobalVars.h"
+	"Intro-Outro States.h"
+	"Menu State.h"
+	"Battle State.h"
+
+1399918040 c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\timer.h
+
+1399918040 source:c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\timer.cpp
+	<SDL.h>
+	"Timer.h"
+
+1398721187 c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\helper functions.h
+
+1410540163 c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\helpers.h
+
+1411093305 c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\characters.h
+
+1411093250 source:c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\characters.cpp
+	<SDL.h>
+	"Characters.h"
+	<cmath>
+
+1411235877 source:c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\helpers.cpp
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<SDL_image.h>
+	"Helpers.h"
+	"IC_GlobalVars.h"
+
+1164938736 c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\easybmp.h
+	<iostream>
+	<cmath>
+	<cctype>
+	<cstring>
+	<stdio.h>
+	<cstdio>
+	"EasyBMP_DataStructures.h"
+	"EasyBMP_BMP.h"
+	"EasyBMP_VariousBMPutilities.h"
+
+1164938554 c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\easybmp_datastructures.h
+
+1164939632 c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\easybmp_bmp.h
+
+1164938562 c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\easybmp_variousbmputilities.h
+
+1410829506 source:c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\intro-outro states.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	"Helpers.h"
+	"IC_GlobalVars.h"
+
+1410539952 c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\ic_globalvars.h
+
+1410823985 source:c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\menu state.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	<cmath>
+	<sstream>
+	"Timer.h"
+	"Helpers.h"
+	"IC_GlobalVars.h"
+
+1410540339 c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\intro-outro states.h
+	"IC_GlobalVars.h"
+
+1410539952 c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\menu state.h
+	"IC_GlobalVars.h"
+
+1410539952 c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\battle state.h
+	"IC_GlobalVars.h"
+
+1411310144 source:c:\users\timothy\documents\programming\sdl projects\infinite circles\infinite circles - the game\battle state.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	<cmath>
+	<sstream>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	"Timer.h"
+	"Helpers.h"
+	"IC_GlobalVars.h"
+	"Characters.h"
+

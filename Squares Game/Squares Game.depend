@@ -1,0 +1,181 @@
+# depslib dependency file v1.0
+1421688110 source:c:\users\timothy\documents\programming\sdl2 projects\squares game\characters.cpp
+	<SDL.h>
+	"Characters.h"
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"IC_GlobalVars.h"
+	"Helpers.h"
+	<stdio.h>
+	<iostream>
+
+1427902021 c:\users\timothy\documents\programming\sdl2 projects\squares game\characters.h
+	"Level IO.h"
+	"Helpers.h"
+
+1421688110 source:c:\users\timothy\documents\programming\sdl2 projects\squares game\helpers.cpp
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<SDL_image.h>
+	"Helpers.h"
+	"IC_GlobalVars.h"
+	<cstdio>
+	<glew.h>
+	<cmath>
+
+1419128073 c:\users\timothy\documents\programming\sdl2 projects\squares game\helpers.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1420674818 c:\users\timothy\documents\programming\sdl2 projects\squares game\ic_globalvars.h
+	<string>
+	"SDL.h"
+
+1413043410 source:c:\users\timothy\documents\programming\sdl2 projects\squares game\intro-outro states.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	"Helpers.h"
+	"IC_GlobalVars.h"
+	<cstdio>
+
+1420869249 source:c:\users\timothy\documents\programming\sdl2 projects\squares game\menu state.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	<cstdio>
+	<cmath>
+	<sstream>
+	<iostream>
+	"Timer.h"
+	"Helpers.h"
+	"IC_GlobalVars.h"
+	"Menu State.h"
+
+1413054072 c:\users\timothy\documents\programming\sdl2 projects\squares game\timer.h
+
+1413054072 source:c:\users\timothy\documents\programming\sdl2 projects\squares game\timer.cpp
+	<SDL.h>
+	"Timer.h"
+
+1421688112 source:c:\users\timothy\documents\programming\sdl2 projects\squares game\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	<cmath>
+	<sstream>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	"Timer.h"
+	"Characters.h"
+	"IC_GlobalVars.h"
+	"Cutscenes.h"
+	"Helpers.h"
+	"Menu State.h"
+	"Battle State.h"
+	"Tutorial State.h"
+	"CTF.h"
+
+1412623978 c:\users\timothy\documents\programming\sdl2 projects\squares game\intro-outro states.h
+	"IC_GlobalVars.h"
+
+1420672128 c:\users\timothy\documents\programming\sdl2 projects\squares game\menu state.h
+	"IC_GlobalVars.h"
+
+1417661868 c:\users\timothy\documents\programming\sdl2 projects\squares game\battle state.h
+	"IC_GlobalVars.h"
+
+1421688109 source:c:\users\timothy\documents\programming\sdl2 projects\squares game\battle state.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	<cmath>
+	<sstream>
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	"Timer.h"
+	"Helpers.h"
+	"IC_GlobalVars.h"
+	"Characters.h"
+	"Level IO.h"
+	"Cutscenes.h"
+
+1418613173 source:c:\users\timothy\documents\programming\sdl2 projects\squares game\level io.cpp
+	"Level IO.h"
+	<cstdio>
+	<fstream>
+
+1418586956 c:\users\timothy\documents\programming\sdl2 projects\squares game\level io.h
+	<string>
+
+1417663073 source:c:\users\timothy\documents\programming\sdl2 projects\squares game\cutscenes.cpp
+	"Cutscenes.h"
+	<cstdio>
+	<fstream>
+	<sstream>
+	<string>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"IC_GlobalVars.h"
+	"Helpers.h"
+
+1417662478 c:\users\timothy\documents\programming\sdl2 projects\squares game\cutscenes.h
+	<string>
+	"IC_GlobalVars.h"
+	"Helpers.h"
+
+1420673193 source:c:\users\timothy\documents\programming\sdl2 projects\squares game\tutorial state.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	"IC_GlobalVars.h"
+	"Helpers.h"
+	"Characters.h"
+	"Tutorial State.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<string>
+	<cmath>
+	"Timer.h"
+
+1417663047 c:\users\timothy\documents\programming\sdl2 projects\squares game\tutorial state.h
+	<string>
+
+1425704163 source:c:\users\timothy\documents\programming\sdl2 projects\squares game\ctf.cpp
+	"CTF.h"
+	"Characters.h"
+	"IC_GlobalVars.h"
+	"Timer.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<sstream>
+	<string>
+
+1421288348 c:\users\timothy\documents\programming\sdl2 projects\squares game\ctf.h
+	"IC_GlobalVars.h"
+	"Helpers.h"
+
